@@ -9,3 +9,5 @@ Output screenshot and Introduction to AWS Services.
 4. Start with Amazon Rekognition (Face detection) <br>
 5. Connecting EC2 with S3 and Rekognition<br>
 6. Creating Celebrity detection app
+
+https://www.dropbox.com/s/27tl3h9k8y5dzs0/glug_pace%20on%202020-04-05%2012%3A47.mp4?dl=0
